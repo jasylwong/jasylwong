@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hello world 👋 🌍
+
+Welcome to my GitHub profile! I am a:
+
+- 👨‍💻 Fullstack Software Engineer (Ruby on Rails & Vue.js)
+- 🤓 Qualified actuary
+- 🎹 Casual ivory tickler
+- 🍜 Food lover
 
 <!--
 **jasylwong/jasylwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
+
+
