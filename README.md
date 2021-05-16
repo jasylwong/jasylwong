@@ -1,8 +1,4 @@
-<div align="center">
-  <h1> 
-    Jason Wong
-  </h1>
-</div>
+# Jason Wong
 
 Welcome to my GitHub profile! I am a:
 
