@@ -2,13 +2,11 @@
   <h1> 
     Jason Wong
   </h1>
-  
- **Fullstack Software Engineer**
 </div>
 
 Welcome to my GitHub profile! I am a:
 
-- 👨‍💻  Fullstack Software Engineer (Ruby on Rails & Vue.js)
+- 👨‍💻  Fullstack software engineer (Ruby on Rails & Vue.js)
 - 🤓  Qualified actuary
 - 🎹  Casual ivory tickler
 - 🍜  Food lover
