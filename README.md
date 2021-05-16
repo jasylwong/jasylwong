@@ -1,4 +1,10 @@
-### Hello world 👋 🌍
+<div align="center">
+  <h1> 
+    Jason Wong
+  </h1>
+  
+ **Fullstack Software Engineer**
+</div>
 
 Welcome to my GitHub profile! I am a:
 
